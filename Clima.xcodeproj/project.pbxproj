@@ -7,7 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		60779405255138340069D510 /* apiKey.swift in Sources */ = {isa = PBXBuildFile; fileRef = 60779404255138340069D510 /* apiKey.swift */; };
+		60208A5D25550A7100B54804 /* apiKey.swift in Sources */ = {isa = PBXBuildFile; fileRef = 60208A5C25550A7100B54804 /* apiKey.swift */; };
 		60CC869C25343A8B00938D10 /* WeatherManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 60CC869B25343A8B00938D10 /* WeatherManager.swift */; };
 		60CC86A225344B8200938D10 /* WeatherData.swift in Sources */ = {isa = PBXBuildFile; fileRef = 60CC86A125344B8200938D10 /* WeatherData.swift */; };
 		60CC86A525345E3A00938D10 /* WeatherModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 60CC86A425345E3A00938D10 /* WeatherModel.swift */; };
@@ -20,8 +20,8 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		60208A5C25550A7100B54804 /* apiKey.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = apiKey.swift; sourceTree = "<group>"; };
 		60779402255129080069D510 /* Clima.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = Clima.entitlements; sourceTree = "<group>"; };
-		60779404255138340069D510 /* apiKey.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = apiKey.swift; sourceTree = "<group>"; };
 		60CC869B25343A8B00938D10 /* WeatherManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WeatherManager.swift; sourceTree = "<group>"; };
 		60CC86A125344B8200938D10 /* WeatherData.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WeatherData.swift; sourceTree = "<group>"; };
 		60CC86A425345E3A00938D10 /* WeatherModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WeatherModel.swift; sourceTree = "<group>"; };
@@ -52,7 +52,7 @@
 				60CC869B25343A8B00938D10 /* WeatherManager.swift */,
 				60CC86A125344B8200938D10 /* WeatherData.swift */,
 				60CC86A425345E3A00938D10 /* WeatherModel.swift */,
-				60779404255138340069D510 /* apiKey.swift */,
+				60208A5C25550A7100B54804 /* apiKey.swift */,
 			);
 			path = Model;
 			sourceTree = "<group>";
@@ -181,7 +181,7 @@
 				ADAA27B1231BBFAF00365194 /* AppDelegate.swift in Sources */,
 				60CC869C25343A8B00938D10 /* WeatherManager.swift in Sources */,
 				60CC86A525345E3A00938D10 /* WeatherModel.swift in Sources */,
-				60779405255138340069D510 /* apiKey.swift in Sources */,
+				60208A5D25550A7100B54804 /* apiKey.swift in Sources */,
 				ADAA27B3231BBFAF00365194 /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
